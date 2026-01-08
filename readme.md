@@ -2,6 +2,8 @@
 
 ## Visão geral
 
+Projeto em andamento.
+
 Esta documentação descreve uma automação em **Python**, executada como **root**, para:
 
 - Manter o **repositório oficial do Zabbix 7.4** configurado no Debian
